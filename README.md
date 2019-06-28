@@ -6,3 +6,4 @@ Using 3 Models:
 * Up & Down Votes
 * Comments
 
+Feel free to send any comments for features
